@@ -10,7 +10,7 @@ Here's the Live Deployed Website ![](https://img.shields.io/badge/Project%20-9-y
 ## [GO LIVE](https://saketineuronproject9.netlify.app/)
 
 
-![Screenshot](./9.png)
+![Screenshot](./thumbnail.png)
 
 # What I have learned in this project
 
